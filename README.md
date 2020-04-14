@@ -6,4 +6,5 @@ used to generate plots seen in the publication https://arxiv.org/abs/2002.04680 
 
 This project was initialized and completed during a summer research appointment at University of Connecticut
 in the Department of Mathematics.
+
 Research area: Mathematical Physics, Numerical Analysis, Fractal Analysis, Partial Differential Equations.
