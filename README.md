@@ -1,4 +1,4 @@
-# Koch Snowflake with Boundary and Interiror Energies
+# Koch Snowflake with Boundary and Interior Energies
 
 This file contains files of Python code used to generate data points and plots of the Koch Snowflake
 fractal with a Laplacian operator applied to the interior and boundary. Mathematica notebooks were 
